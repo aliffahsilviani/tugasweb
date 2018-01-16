@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+	margin:0;
+	font-family:Eras Bold ITC;
+	font-size:14pt;
+	background-color:#3366FF;
+	opacity:10;
+	filter: alpha(opacity=100);
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0,2);
+	
+}
+ul {
+	list-style-type: none;
+	margin:0;
+	paddding:0;
+	overflow:hidden;
+	background-color: #99FFFF;
+	
+}
+
+li {
+	float: left;
+	
+}
+
+li a {
+	display: block;
+	color: #9966CC;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
+}
+li a:hover{
+	background-color: #66FFCC;
+}
+
+div.cover {
+	text-align:center;
+	width:75%
+}
+
+</style>
+</head>
+<body>
+
+	<h1><font size="100px"><font face="Colonna MT"><font color="white">SMILE</font></font></font></h1>
+	<tr>
+<ul>	
+      <li><a href="home.html">Home </a></li>
+      <li><a href="Fotografi.html">Fotografi </a></li>
+      <li><a href="Photoshop.html">Photoshop </a></li>
+	  <li><a href="Alpro.html">Algoritma Pemrogaman </a></li>
+	  <li><a href="Daspro.html">Dasar Pemrogaman </a></li>
+	  <li><a href="Strukdat.html">Struktur Data </a></li></li>
+	  <li><a href="Matriks.html">Matriks dan Vektor </a></li>
+	  </ul>
+</tr> 
+	<font color="white"><font size="5px"><strong>
+	<p><center>Program Mencari Genap Ganjil
+	<table border="0">
+	<tr>
+		<td><img src="gnp.jpg" width="500" height="350"></td>
+	</tr>
+	</table>
+	<p><center>Program Mengubah Bulan Menjadi Hari
+	<table border="0">
+	<tr>
+		<td><img src="bln.jpg" width="700" height="500"></td>
+	</tr>
+	</table>
+	<p>Program Mencari Nilai Terbesar
+	<table border="0">
+<tr>
+<td><img src="besar.jpg" width="500" height="350"></td>
+</tr>
+</table>
+</body>
+</html>
